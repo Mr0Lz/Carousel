@@ -2,8 +2,8 @@
 #### Carousel使用<br>
 引入css 和 js 文件:
 <pre>
-<link rel="stylesheet" type="text/css" href="carousel.css">
-<script type="text/javascript" src="carousel.js"></script>
+\<link rel="stylesheet" type="text/css" href="carousel.css">
+\<script type="text/javascript" src="carousel.js"></script>
 </pre>
 #### 2.html基本结构: 
 元素嵌套结构: div>(div>div>img或者a)+div>左右切换按钮,id或者css选择器自定义.
