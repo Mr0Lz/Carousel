@@ -8,18 +8,18 @@ script type="text/javascript" src="carousel.js"
 元素嵌套结构: div>(div>div>img或者a)+div>左右切换按钮,id或者css选择器自定义.
 例:  <pre>
 \<div id="banner">
-\<div id="banner_img" class="banner_img">
-\<a href="###"><img \src="1.png"/></a>
-\<a href="###"><img \src="2.png"/></a>
-\<a href="###"><img \src="3.png"/></a>
-\<a href="###"><img \src="4.png"/></a>
+	\<div id="banner_img" class="banner_img">
+		\<a href="###"><img \src="1.png"/></a>
+		\<a href="###"><img \src="2.png"/></a>
+		\<a href="###"><img \src="3.png"/></a>
+		\<a href="###"><img \src="4.png"/></a>
+	\</div>
+	\<div class="btn">
+		\<a href="###" class="prev"></a>
+		\<a href="###" class="next"></a>
+	\</div>
 \</div>
-\<div class="btn">
-\<a href="###" class="prev"></a>
-\<a href="###" class="next"></a>
-\</div><br>
-\</div>
-\</pre>
+</pre> 
 #### 3.Carousel初始化
 <pre>Carousel("#banner","#banner_img",{prevBtn:".prev",nextBtn:".next",
 	indexBtn:true,
