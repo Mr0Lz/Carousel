@@ -1,5 +1,5 @@
 # Carousel原生js写的轮播
-#### Carousel使用 引入css 和 js 文件:
+#### Carousel使用  引入css 和 js 文件:
 <pre>
 link rel="stylesheet" type="text/css" href="carousel.css"
 script type="text/javascript" src="carousel.js"
@@ -46,5 +46,5 @@ script type="text/javascript" src="carousel.js"
 	duration//动画过渡时长,默认40
 	BezierCurve://贝赛尔曲线函数,默认ease
 	minWidth//轮播最小宽度
-	}
+	}*/
 </pre>
