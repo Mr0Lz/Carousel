@@ -4,7 +4,10 @@
 <pre>
  link rel="stylesheet" type="text/css" href="carousel.css   
  script type="text/javascript" src="carousel.js" 
-</pre>
+</pre>    
+  
+  html基本结构:
+  
 <pre>
     <div id="banner">
     <div id="banner_img" class="banner_img">
