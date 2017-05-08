@@ -1,4 +1,4 @@
-# Carousel原生js写的轮播  
+# Carousel轮播  
 ## Carousel使用  
 引入css 和 js 文件:    
 <pre>
