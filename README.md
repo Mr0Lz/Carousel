@@ -8,7 +8,7 @@
   
   html基本结构: div\>(div\>div\>img或者a)+div\>左右切换按钮,id或者css选择器自定义.
 
-    \<div id="banner"\>    
+    <div id="banner">    
     \<div id="banner_img" class="banner_img"\>  
     \<a href="###"\>\<img \\src="1.png"\/\>\<\/a\>  
     \<a href="###"\>\<img \\src="2.png"\/\>\<\/a\>  
