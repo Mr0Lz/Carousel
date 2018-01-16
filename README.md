@@ -4,8 +4,8 @@
  
  
  
-    <link rel="stylesheet" type="text/css" href="carousel.css ></link>  
-    <script type="text/javascript" src="carousel.js" ></script>
+    <link rel="stylesheet" type="text/css" href="carousel.css ></link>
+    <script type="text/javascript" src="carousel.js" ></script>
 
   
   html基本结构: div\>(div\>div\>img或者a)+div\>左右切换按钮,id或者css选择器自定义.
