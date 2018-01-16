@@ -1,10 +1,12 @@
 # Carousel轮播  
 ## Carousel使用  
 引入css 和 js 文件:    
-<pre>
- link rel="stylesheet" type="text/css" href="carousel.css   
- script type="text/javascript" src="carousel.js" 
-</pre>    
+ 
+ 
+ 
+    <link rel="stylesheet" type="text/css" href="carousel.css ></link>  
+    <script type="text/javascript" src="carousel.js" ></script>
+
   
   html基本结构: div\>(div\>div\>img或者a)+div\>左右切换按钮,id或者css选择器自定义.
 
@@ -24,7 +26,9 @@
 
 Carousel初始化   
 
-    Carousel("#banner","#banner_img",{prevBtn:".prev",nextBtn:".next",   
+    Carousel("#banner","#banner_img",
+    {
+     prevBtn:".prev",nextBtn:".next",   
      indexBtn:true,   
      //height:380,   
      duration:40,   
